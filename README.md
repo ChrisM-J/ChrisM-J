@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChrisM-J
-- 👀 I’m interested in coding (;) of course) and also in sailing, running, travelling an many more.
+- 👀 I’m interested in coding (;) of course) but also in sailing, running and travelling.
 - 🌱 I’m currently learning front-end-developing.
-- 💞️ I’m looking to collaborate on may learning path.
+- 💞️ And I’m looking to find people to collaborate on Web-Dev.
 - 📫 How to reach me: right here...but more possibilities will follow!
 
 <!---
